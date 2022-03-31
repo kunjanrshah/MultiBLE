@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Superb Scale</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="tare">TARE</string>
+    <string name="mode">MODE</string>
+    <string name="export">Export</string>
+    <string name="scan">Scan</string>
+    <string name="connected">Connected</string>
+    <string name="gross_wt">Gross Weight</string>
+    <string name="_0_00">0.00</string>
+</resources>
